@@ -1,6 +1,9 @@
 ---
 title: Typora白嫖B站图床
-categories: 其他
+tags: 
+- 其他
+- Typora
+- 图床
 ---
 
 
